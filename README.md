@@ -1,9 +1,5 @@
 ## Hi I'm Kiyong 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwakkiyong)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
-
 ### 🚀 My Skills & Tools 
 #### 🖥️ Frontend
 <div>
@@ -63,3 +59,5 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwakkiyong)](https://github.com/anuraghazra/github-readme-stats)
